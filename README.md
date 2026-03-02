@@ -84,9 +84,8 @@ Educate Against Hate
 | Header                    | Background Image               |
 | Source:                   | Unsplash (Royalty-free images) |
 | Photographer:             | [Unsplash License]             |  
-| Image ID:                 | photo-1553877522-43269d4ea984  |
-| URL:        | https://images.unsplash.com/photo-1553877522-43269d4ea984 |
-| Note:       | Gradient overlay applied for visual effect |
+| URL:                      | https://unsplash.com/ |
+| Note:                     | Gradient overlay applied for visual effect |
 
 
 ## 3. Reporting & Contact Information
