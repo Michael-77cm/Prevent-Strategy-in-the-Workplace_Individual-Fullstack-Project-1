@@ -6,7 +6,7 @@
 Informational website about the UK Prevent strategy in workplace settings.
 
 ## View Live Demo of Website on: 
-https://michael-77cm.github.io/Prevent-Strategy-in-the-Workplace/
+https://michael-77cm.github.io/Prevent-Strategy-in-the-Workplace_Individual-Fullstack-Project-1/
 
 ## Development
 - **Framework**: Bootstrap 5.3.0
