@@ -21,7 +21,7 @@ The codebase for this website was generated with assistance from OpenAI'. The AI
 - JavaScript functionality for interactive elements
 - Content organization and layout design
 
-Human developer contributions included:
+My developer input included:
 - Requirements specification and review
 - Content verification and accuracy checking
 - Custom modifications and testing
