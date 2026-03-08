@@ -35,6 +35,20 @@ My developer input included:
 ## License
 This code is provided for educational/demonstration purposes.
 
+## Table of Contents 
+1. Framework & Libraries
+2. Content Sources, References & Image Credits
+3. Reporting & Contact Information
+4. Code & Development References
+5. Content Guidance & Best Practices
+6. Accessibility Standards
+7. Legal & Compliance References
+8. Design Inspiration & UI/UX
+9. Disclaimer & Usage Notes
+10. Development Tools & Testing
+11. Suggested Additional Resources for Real Implementation
+    
+
 ## References & Credits for Prevent Strategy Website
 ## 1. Framework & Libraries
 Bootstrap 5.3.0-alpha1 - Frontend framework for responsive design
