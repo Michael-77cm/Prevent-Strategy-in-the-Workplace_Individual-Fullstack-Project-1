@@ -223,6 +223,8 @@ ACT Awareness eLearning
 Sector-Specific Guidance:
 - Education: Department for Education Prevent guidance
 
+- ![Repo Stats](https://vercel.app[Michael-77cm]&repo=[ https://github.com/Michael-77cm/Prevent-Strategy-in-the-Workplace_Individual-Fullstack-Project-1]&show_owner=true)
+
 - Healthcare: NHS England Prevent guidance
 
 - Local Authorities: Statutory Prevent guidance
